@@ -16,7 +16,6 @@
 | Travel Assistant | [https://travelassistant.netlify.app](https://travelassistant.netlify.app/) |
 | Dad Jokes | [https://cheezyjokes.netlify.app](https://cheezyjokes.netlify.app/) |
 
-<br />
 
 ### Languages and Frameworks:
 

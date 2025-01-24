@@ -14,7 +14,7 @@
 | Mortgage approval System | [https://github.com/Dhruv-praju/Mortgage-approval-system](https://github.com/Dhruv-praju/Mortgage-approval-system) |
 | Local-RAG-application | [https://github.com/Dhruv-praju/local-RAG-application](https://github.com/Dhruv-praju/local-RAG-application)|
 | Student performance Prediction system | [https://github.com/Dhruv-praju/mlproject](https://github.com/Dhruv-praju/mlproject)|
-| FIFA-19 player's Statistical analysis | [https://github.com/Dhruv-praju/FIFA-19-player-s-wage-predict](https://github.com/Dhruv-praju/FIFA-19-player-s-wage-predict) |
+| FIFA-19 player's Statistical analysis | [https://github.com/Dhruv-praju/FIFA-19-player-s-wage-predict/blob/main/Final-Project.pdf](https://github.com/Dhruv-praju/FIFA-19-player-s-wage-predict/blob/main/Final-Project.pdf) |
 | Covid-19 Data Exploratory Analysis | [Covid-19 2021 India Report](https://nbviewer.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/India/Indian_Complete_COVID-19_Analysis.ipynb) |
 
 ### Software Projects :

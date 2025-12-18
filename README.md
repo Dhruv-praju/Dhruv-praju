@@ -11,6 +11,7 @@
 
 | Title | Url | 
 | ----------- | ----------- |
+| ClosIT - Outfit Recommendation App | [https://github.com/BU-ClosIT/ClosIT](https://github.com/BU-ClosIT/ClosIT) |
 | Mortgage approval System | [https://github.com/Dhruv-praju/Mortgage-approval-system](https://github.com/Dhruv-praju/Mortgage-approval-system) |
 | Local-RAG-application | [https://github.com/Dhruv-praju/local-RAG-application](https://github.com/Dhruv-praju/local-RAG-application)|
 | Student performance Prediction system | [https://github.com/Dhruv-praju/mlproject](https://github.com/Dhruv-praju/mlproject)|
